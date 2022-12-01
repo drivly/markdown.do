@@ -1,18 +1,18 @@
 export const api = {
   icon: '🚀',
-  name: 'markdown.do.do',
-  description: 'Cloudflare Worker Template',
+  name: 'markdown.do',
+  description: 'Markdown Generation, Parsing & Transformation API',
   url: 'https://markdown.do.do/api',
   type: 'https://apis.do/formats',
   endpoints: {
-    listCategories: 'https://markdown.do.do/api',
-    getCategory: 'https://markdown.do.do/:type',
+    listCategories: 'https://markdown.do/api',
+    getCategory: 'https://markdown.do/:type',
   },
-  site: 'https://markdown.do.do',
-  login: 'https://markdown.do.do/login',
-  signup: 'https://markdown.do.do/signup',
-  subscribe: 'https://markdown.do.do/subscribe',
-  repo: 'https://github.com/drivly/markdown.do.do',
+  site: 'https://markdown.do',
+  login: 'https://markdown.do/login',
+  signup: 'https://markdown.do/signup',
+  subscribe: 'https://markdown.do/subscribe',
+  repo: 'https://github.com/drivly/markdown.do',
 }
 
 export const gettingStarted = [
@@ -21,7 +21,7 @@ export const gettingStarted = [
 ]
 
 export const examples = {
-  listItems: 'https://markdown.do.do/worker',
+  listItems: 'https://markdown.do/worker',
 }
 
 export default {
