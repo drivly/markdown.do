@@ -21,7 +21,7 @@ Explore the API at: <https://markdown.do/api>
     "repo": "https://github.com/drivly/markdown.do"
   }
   "examples": {
-    "listItems": "https://markdown.do/worker"
+    "listItems": "https://markdown.do/json.fyi/README.md"
   }
 }
 ```
